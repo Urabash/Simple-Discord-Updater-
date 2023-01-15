@@ -1,4 +1,4 @@
-Discord Updater
+**Discord Updater**
 
 A simple bash script that checks for updates to Discord and automatically installs them.
 Usage
