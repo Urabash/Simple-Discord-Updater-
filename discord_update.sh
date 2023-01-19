@@ -52,6 +52,6 @@ do
             echo "Discord is not installed"
         fi
     fi
-    # Increase the counter
+    # Turn init to true
     init=true
 done
