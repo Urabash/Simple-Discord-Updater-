@@ -8,7 +8,6 @@ To use the script, simply make it executable with chmod +x discord_updater.sh an
 
     Checks for updates to Discord using the Discord API
     Automatically downloads and installs updates
-    Keeps a log of all updates in log.txt
 
 ### Requirements
 
